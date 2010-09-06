@@ -57,6 +57,17 @@ Generate a coverage report by running:
 
 Please report any problems to the developer's mailing list.
 
+Running Dev Instance
+--------------------
+
+Prepare the dev instance:
+
+    make dev
+
+Start the server:
+
+    ./utils/run
+
 Releasing
 ---------
 
